@@ -84,7 +84,7 @@
     "mkdirp": "^3.0.1",
     "mocha": "^11.7.6",
     "mongodb": "^7.5.0",
-    "npm-check-updates": "^22.2.9",
+    "npm-check-updates": "^23.0.0",
     "semistandard": "^17.0.0",
     "shx": "^0.4.0",
     "sift": "^17.1.3",
